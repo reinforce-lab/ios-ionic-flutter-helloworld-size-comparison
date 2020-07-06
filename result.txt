@@ -4,3 +4,4 @@ Xcode 12 beta (12A6159)
 iOS14.0 (beta1)
 
 iOS hello world app: 197kB
+Ionic 6.10.1: 93.5MB
