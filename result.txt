@@ -1,0 +1,6 @@
+
+iPhone Xs
+Xcode 12 beta (12A6159)
+iOS14.0 (beta1)
+
+iOS hello world app: 197kB
